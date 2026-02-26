@@ -1,3 +1,4 @@
+# Day 03: Employee Profile Generator – practicing variables, strings, f-strings, and string slicing
 # First, let's set up the basic identity. 
 # We're combining the first and last name with a space so it looks natural.
 first_name = 'John'
