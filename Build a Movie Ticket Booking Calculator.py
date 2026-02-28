@@ -1,3 +1,4 @@
+# Day 05: Practicing Boolean and Conditionals(if, elif, else)
 # --- Setup ---
 base_price = 15
 age = 21
